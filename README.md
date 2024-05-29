@@ -2,7 +2,7 @@
 Layout da page App Pedidos
 
 <p align="center">
-<img alt="Frontend" src=".github/Atividade1.png" width="40%">
+<img alt="Frontend" src=".github/atividade1.png" width="40%">
 </p>
 
 ## Tecnologias
