@@ -2,7 +2,7 @@
 Layout da page Introdução App
 
 <p align="center">
-<img alt="Frontend" src=".github/Atividade1.png" width="100%">
+<img alt="Frontend" src=".github/Atividade1.png" width="50%">
 </p>
 
 ## Tecnologias
